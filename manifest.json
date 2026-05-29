@@ -1,0 +1,17 @@
+{
+  "name": "ScanAgri Météo",
+  "short_name": "ScanAgri",
+  "description": "Météo agricole intelligente — prévisions, cultures, radar et tendances saisonnières",
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "start_url": "/ScanAgri-Meteo/",
+  "scope": "/ScanAgri-Meteo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c130c",
+  "theme_color": "#0c130c",
+  "lang": "fr",
+  "categories": ["weather", "productivity"]
+}
